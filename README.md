@@ -29,3 +29,10 @@
   
   
  </details>
+ <details><summary>
+ # electronics components ne Shkup
+</summary>
+* Anhoch PC Market --> (https://www.anhoch.com/)
+* Neptun --> (https://www.neptun.mk/)
+* BDS | ELECTRONICS AND COMPUTER MARKET --> (https://bdselectronic.com.mk/)
+</details>
