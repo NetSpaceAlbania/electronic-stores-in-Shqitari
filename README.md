@@ -1,6 +1,8 @@
 # electronic-stores-in-Shqitari
-
-## pc components
+---
+<details><summary>
+## pc components ne Tirane
+</summary>
 * R & R --> (https://crs.al/)
 * German computers --> (https://germancomputers.al/)
 * Gjirafa --> (https://gjirafa50.al/) | (https://gjirafa50.com/)
@@ -14,3 +16,5 @@
 * business.facebook.com/o2mcomputer
 * itstore.al --> (https://itstore.al/)
 * Albi Computers --> (https://albicomputers.al/)
+</details>
+---
