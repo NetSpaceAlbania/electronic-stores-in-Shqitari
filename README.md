@@ -30,7 +30,7 @@
   
  </details>
  <details><summary>
- # electronics components ne Maqedonin e Veriut
+ ## electronics stores and components ne Maqedonin e Veriut
 </summary>
 * Anhoch PC Market --> (https://www.anhoch.com/)
 * Neptun --> (https://www.neptun.mk/)
