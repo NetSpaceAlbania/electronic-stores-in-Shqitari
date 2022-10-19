@@ -20,3 +20,12 @@
 
 </details>
 ---
+<details><summary>
+## electronic components ne Tirane
+</summary>
+  
+  * Atila electronic -->(https://atila-electronic.com/)
+  * Tirana electronic -->(https://www.facebook.com/Tirana-Electronic-449263161815340/)
+  
+  
+ </details>
