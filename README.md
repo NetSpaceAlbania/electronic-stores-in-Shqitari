@@ -30,9 +30,12 @@
   
  </details>
  <details><summary>
- # electronics components ne Shkup
+ # electronics components ne Maqedonin e Veriut
 </summary>
 * Anhoch PC Market --> (https://www.anhoch.com/)
 * Neptun --> (https://www.neptun.mk/)
 * BDS | ELECTRONICS AND COMPUTER MARKET --> (https://bdselectronic.com.mk/)
+* Premium Computers --> (https://www.premium.com.mk/)
+* DDStore Computers --> (https://ddstore.mk/)
+* NIKO Computers --> (https://niko.com.mk/)
 </details>
