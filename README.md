@@ -1,4 +1,4 @@
-# electronic-stores-in-Shqitari
+# electronic-stores-in-Shqiptari
 ---
 <details><summary>
 ## pc components ne Tirane
